@@ -12,7 +12,6 @@ export default function Home({ externalPostData }) {
       </Head>
 
       <main className={styles.main}>
-        <img src="/logo 2.png" alt="my logo" className="logo" />
         <h1 className={styles.title}>My blog </h1>
         <div className={styles.grid}>
           <div className={styles.card}>
